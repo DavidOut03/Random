@@ -1,0 +1,7 @@
+name: Random
+version: '${project.version}'
+main: com.davidout.random.Main
+api-version: 1.18
+authors: [ David_Out ]
+description: A plugin with random Features
+website: https://www.davidout.com
